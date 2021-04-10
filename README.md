@@ -15,11 +15,12 @@ Na resolução deste trabalho deve ser utilizada a Linguagem de Programação C.
 - É proíbida a utilização de variáveis globais - i.e. variáveis declaradas fora de qualquer função.
 
 **Neste problema não é permitida a utilização das bibliotecas string.h, strings.h, e stdlib.h.**
+
 **Neste problema não é permitida a utilização das bibliotecas string.h, strings.h, e stdlib.h.**
+
 **Neste problema não é permitida a utilização das bibliotecas string.h, strings.h, e stdlib.h.**
-**Neste problema não é permitida a utilização das bibliotecas string.h, strings.h, e stdlib.h.**
-**Neste problema não é permitida a utilização das bibliotecas string.h, strings.h, e stdlib.h.**
-**Neste problema não é permitida a utilização das bibliotecas string.h, strings.h, e stdlib.h.**
+
+(Sim... repetido para que se veja bem)
 
 ## 1. Introdução
 
