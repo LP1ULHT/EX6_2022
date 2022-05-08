@@ -2,7 +2,7 @@
 **UNIVERSIDADE LUSÓFONA DE HUMANIDADES E TECNOLOGIAS**
 
 
-# Exercício #4 - Billboard - Versão 2
+# Exercício #6 - Billboard
 
 Na resolução deste trabalho deve ser utilizada a Linguagem de Programação C. Para além da correta implementação dos requisitos, tenha em conta os seguintes aspetos:
 - O código apresentado deve ser bem indentado. 
@@ -16,9 +16,6 @@ Na resolução deste trabalho deve ser utilizada a Linguagem de Programação C.
 
 **Neste problema não é permitida a utilização das bibliotecas string.h, strings.h, e stdlib.h.**
 
-**Neste problema não é permitida a utilização das bibliotecas string.h, strings.h, e stdlib.h.**
-
-**Neste problema não é permitida a utilização das bibliotecas string.h, strings.h, e stdlib.h.**
 
 (Sim... repetido para que se veja bem)
 
@@ -85,7 +82,7 @@ Exiting->
 
 * Ficheiro `.c` com código devidamente comentado e indentado:
     - Deve implementar as funcionalidades pedidas.
-    - O código deverá ser submetido na plataforma PANDORA [(2)](#ref2) até às **23:59 do dia 18 de Abril de 2021** no *contest* **LP12021EX4**.
+    - O código deverá ser submetido na plataforma PANDORA [(2)](#ref2) até às **23:59 do dia 15 de Maio de 2022** no *contest* **LP12022EX6**.
     - Incorrecta indentação do código poderá originar penalizações na nota.
  
 ## Honestidade Académica
