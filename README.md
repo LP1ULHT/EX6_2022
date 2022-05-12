@@ -18,7 +18,6 @@ Na resolução deste trabalho deve ser utilizada a Linguagem de Programação C.
 **Neste problema não é permitida a utilização das bibliotecas string.h, strings.h, e stdlib.h.**
 
 
-(Sim... repetido para que se veja bem)
 
 ## 1. Introdução
 
