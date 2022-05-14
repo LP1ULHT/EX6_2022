@@ -82,7 +82,7 @@ Exiting->
 
 * Ficheiro `.c` com código devidamente comentado e indentado:
     - Deve implementar as funcionalidades pedidas.
-    - O código deverá ser submetido na plataforma PANDORA [(2)](#ref2) até às **23:59 do dia 15 de Maio de 2022** no *contest* **LP12022EX6**.
+    - O código deverá ser submetido na plataforma PANDORA [(2)](#ref2) até às **23:59 do dia 20 de Maio de 2022** no *contest* **LP12022EX6**.
     - Incorrecta indentação do código poderá originar penalizações na nota.
  
 ## Honestidade Académica
